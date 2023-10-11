@@ -1,1 +1,3 @@
+ckip斷詞model檔案太大未放入
+sentence transformer model檔案太大未放入
 
