@@ -1,0 +1,9 @@
+# pip install -r  ..\..\requirements.txt
+selenium
+beautifulsoup4
+jieba
+facebook-scraper
+numpy
+pandas
+#git+https://github.com/openai/whisper.git
+#"https://download.pytorch.org/whl/cu118/torch-2.0.1%2Bc…u118-cp311-cp311-win_amd64.whl"
